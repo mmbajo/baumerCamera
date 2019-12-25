@@ -1,0 +1,22 @@
+﻿  PixelTransformation.cpp
+C:\Users\a1215020\Documents\work\cameraTest\cameraTest\PixelTransformation.cpp(566,103): warning C4244: 'argument': conversion from 'bo_uint64' to 'int', possible loss of data
+C:\Users\a1215020\Documents\work\cameraTest\cameraTest\PixelTransformation.cpp(566,76): warning C4244: 'argument': conversion from 'bo_uint64' to 'int', possible loss of data
+  cameraTest.vcxproj -> C:\Users\a1215020\Documents\work\cameraTest\cameraTest\x64\Debug\cameraTest.exe
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\bgapi2_ext_sc.dll
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\bgapi2_genicam.dll
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\bgapi2_gige.cti
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\bgapi2_img.dll
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\bgapi2_usb.cti
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\bopfdrvctl.dll
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\bsysgige.xml
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\bsysusb.xml
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\GCBase_MD_VC120_v3_0_baumer.dll
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\GenApi_MD_VC120_v3_0_baumer.dll
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\log4cpp_MD_VC120_v3_0_baumer.dll
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\Log_MD_VC120_v3_0_baumer.dll
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\MathParser_MD_VC120_v3_0_baumer.dll
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\msvcp120.dll
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\msvcr120.dll
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\NodeMapData_MD_VC120_v3_0_baumer.dll
+  C:\Program Files\Baumer GAPI SDK\Components\Bin\x64\XmlParser_MD_VC120_v3_0_baumer.dll
+         17 個のファイルをコピーしました。
